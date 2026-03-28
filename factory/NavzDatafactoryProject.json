@@ -1,0 +1,9 @@
+{
+	"name": "NavzDatafactoryProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f4eff684-d9bb-4d02-a718-42004d0e1e42",
+		"tenantId": "d82491a6-e953-480b-8472-7f5fd4687634"
+	}
+}
