@@ -49,7 +49,11 @@ This project demonstrates an end-to-end data engineering pipeline using Azure Da
   - Filtering  
   - Window functions (**Dense Rank**) to identify:
     - Top-performing airlines  
-    - Top passengers  
+    - Top passengers and flights
+   
+
+<img width="1024" height="1536" alt="Azure Data Factory Project" src="https://github.com/user-attachments/assets/6cfb40df-0442-4bcd-9db4-063f2a356e49" />
+
     - Most active flights  
 
 - Integrated project with Azure DevOps:
